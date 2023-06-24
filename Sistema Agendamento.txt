@@ -1,0 +1,104 @@
+Sistema Agendamento
+
+Telas:
+	Site:
+		Home
+		Serviços
+		Sobre Nós
+		Unidades
+		Blog
+		Contato
+		Agendar Agora
+	
+	Painel:
+		Login
+		Dashboard:
+			Cards:
+				Agendamentos realizados
+				Serviços Cadastrados
+				Profissionais Cadastrados
+				Portal de  de ajuda 
+			Tabela com os primiros agendamentos
+
+		Agendamentos:
+			Tabela com os agendamentos:
+				Serviço 
+				Data
+				Horário
+				Profissional 
+				Cliente
+				Ação
+			Botão Agendar
+
+		Agendar Consulta:
+			Form:
+				Nome
+				WhatsApp
+				Email
+				Tratamento
+				Profissional
+				Calendario com Data
+
+		Todos os Serviços:
+			Botão cadastrar
+			Tabela com Serviços:
+				Serviço	
+				Editar 
+				Excluir
+
+		Todos os Profissionais:
+			Botão cadastrar
+			Tabela com Serviços:
+				Profissional	
+				Editar 
+				Excluir
+		
+		Cadastro:
+			Serviços:
+				Status - Ativo, Inativo
+				Serviço
+				Tempo de execução
+				Unidades
+				Categoria
+				Descrição
+				Imagem
+
+			Profissionais:
+				Nome 
+				Email
+				Telefone
+				WhatsApp
+				Serviços que atende 
+				Unidade 
+				Imagem
+
+		
+Models:
+    Servico:
+        Status
+        Name
+        # Tempo de execução
+        Categoria
+        Descricao
+        Imagem
+    Profissional:
+        Nome
+        Email
+        Telefone
+        WhatsApp
+        Imagem
+        Servicos
+    Agendamento:
+        Nome - Cliente
+        WhatsApp
+        Email
+        Servico_id
+        Profissional_id
+        Data
+        Status
+
+
+
+
+
+Sistema Pizzaria

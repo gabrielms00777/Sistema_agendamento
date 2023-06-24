@@ -1,0 +1,43 @@
+Sistema gerenciamento restaurante
+
+Funcionalidades:
+    Cardapio do restaurante
+    Monitor cozinha
+    Salão
+    Seguranca
+
+Cozinha:
+  Cardapio do restaurante:
+        QRCode com ca categoria em cima, quando clica:
+            mostra imagem preco e descricao
+    
+  Monitor cozinha:
+      Cards:
+          Header -> Mesa #4 / Pedido: 2(ordem)
+          Body -> 1x Nome produto Status Hora 
+          Foorter -> alterar status
+    
+  Seguranca:
+      Alterar senha:
+        Antiga
+        Nova
+        Confirm
+
+Garcom:
+  Cardapio do restaurante:
+        QRCode com ca categoria em cima, quando clica:
+            mostra imagem preco e descricao
+  
+  Salão:
+    Cards:
+      Card:
+        Mesa 1
+        Assentos 2/4
+        Pedidos 2
+        Inicio 17:00
+
+  Seguranca:
+      Alterar senha:
+        Antiga
+        Nova
+        Confirm
