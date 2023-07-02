@@ -10,18 +10,9 @@ Funcionalidades:
     [ X ] - Cadastrar Cliente
     [ X ] - Cadastrar Profissional
     [ X ] - Criar Agendamento
-
-    [  ] - Editar Categoria
-    [  ] - Editar Serviço
-    [  ] - Editar Cliente
-
-    [  ] - Deletar Categoria (Somente se não tiver serviço cadastrado)
-    [  ] - Editar Serviço
-    [  ] - Editar Cliente
-
-    [  ] - Listar Categorias
-    [  ] - Listar Serviços
-    [  ] - Listar Clientes
-    [  ] - Listar Agendamentos
+    [ X ] - Listar Categorias
+    [ X ] - Listar Serviços
+    [ X ] - Listar Clientes
+    [ X ] - Listar Agendamentos
 
 Colocar obs na hora de maracr
